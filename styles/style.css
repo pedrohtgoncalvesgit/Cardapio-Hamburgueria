@@ -1,3 +1,9 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.fundo{
+    background: url("../Img/fundo.jpg") no-repeat fixed;
+    background-size: cover;
+    -webkit-background-size: cover;
+}
